@@ -1,5 +1,5 @@
 #  sobre mim
-- :smiley:
+- :monocle_face:
 - meu nome é joao victor loredo
 
 - meu email:joao.loredo@escola.pr.gov.br
